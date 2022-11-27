@@ -18,7 +18,7 @@ My solution for Scrimba's Trivia Quiz App Solo Project.
 
 ## Links
 
-- Live Site URL: https://symphonious-salmiakki-63dc32.netlify.app/
+- Live Site URL: https://quiizzical.netlify.app/
 - Open Trivia DB Api: https://opentdb.com/api_config.php
 
 
