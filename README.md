@@ -1,6 +1,6 @@
 # Quizzical
 
-My solution for Scrimba's Trivia Quiz App Solo Project.
+My solution for ordering app solo-project from Scrimba.
 
 ## Table of contents
 
@@ -12,23 +12,31 @@ My solution for Scrimba's Trivia Quiz App Solo Project.
 
 ## Features
 
-- Quizzical fetches data from the Open Trivia DB Api.
-- Uses React Hooks for changing, managing states.
-- Reusable card components. 
+- Rendering the menu to the DOM
+- Give the user the ability to order items
+- Rendering the ordered items
+- Calculating the subtotal and total of the order
+- Creating a modal requesting payment data
+
+
+
+
+
 
 ## Links
 
-- Live Site URL: https://quiizzical.netlify.app/
-- Open Trivia DB Api: https://opentdb.com/api_config.php
+- Live Site URL: https://jimmysdiner.netlify.app/
+
 
 
 ## Built with
 
-- CSS(flex)
-- React.js
-- Vite
+- CSS(flexbox)
+- Vanilla JavaScript
+- HTML5
 - Figma
-- [opentdb-api](https://github.com/topics/opentdb-api)
+
+
 
 
 ## Author
